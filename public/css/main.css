@@ -149,7 +149,7 @@ section h2 {
 
   /* line 149, ../scss/main.scss */
   #mainNav .navbar-brand {
-    color: linear-gradient(to left, #7b4397, #dc2430);
+    color: #a83466;
   }
 
   /* line 153, ../scss/main.scss */
@@ -161,7 +161,7 @@ section h2 {
   /* line 157, ../scss/main.scss */
   #mainNav .navbar-nav > li > a,
   #mainNav .navbar-nav > li > a:focus {
-    color: rgba(255, 255, 255, 0.7);
+    color: #000;
   }
 
   /* line 161, ../scss/main.scss */
