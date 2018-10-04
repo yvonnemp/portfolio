@@ -568,3 +568,9 @@ button.btn.btn-outline.btn-xl.js-scroll-trigger:hover {
   background-color: #fdcb4e;
   border-color: #a09494;
 }
+
+.card-img-top:hover {
+    opacity: 0.5;
+    transition: 0.3s;
+    cursor: pointer;
+}
